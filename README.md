@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Harsha-nani75
 - 👀 I’m interested in ui designing
-- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8790620532
 
