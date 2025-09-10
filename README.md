@@ -49,7 +49,6 @@
 ---
 ## 🐍 Contribution Snake
 ![snake gif](./assets/snake-dark.svg)
-![snake gif](./assets/snake-dark.svg)
 
 ---
 
