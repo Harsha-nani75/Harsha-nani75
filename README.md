@@ -48,7 +48,7 @@
 
 ---
 ## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/harsha-nani75/harsha-nani75/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/harsha-nani75/harsha-nani75/main/snake.svg)
 
 
 ---
