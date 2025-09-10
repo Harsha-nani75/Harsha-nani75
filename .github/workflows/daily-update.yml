@@ -1,0 +1,35 @@
+name: Daily GitHub Activity
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # runs every day at 6 AM UTC
+  workflow_dispatch:
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run daily commit script
+        run: python daily_commit.py
+
+      - name: Configure Git
+        run: |
+          git config user.name "Harsha Vardhan"
+          git config user.email "harshavardhan.thampa98@gmail.com"
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          git commit -m "Daily auto-update [skip ci]" || echo "No changes to commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
