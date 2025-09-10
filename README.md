@@ -48,8 +48,8 @@
 
 ---
 ## 🐍 Contribution Snake
-![snake gif](./assets/snake.svg#gh-light-mode-only)
-![snake gif](./assets/snake-dark.svg#gh-dark-mode-only)
+![snake gif](./assets/snake-dark.svg)
+![snake gif](./assets/snake-dark.svg)
 
 ---
 
