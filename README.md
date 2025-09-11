@@ -34,7 +34,7 @@
 ## 🚀 Featured Projects
 - [Hotel ERP System](https://github.com/harsha-nani75/hotel-erp) – Angular + Node.js + MySQL + REST APIs  
 - [Billing System](https://github.com/harsha-nani75/billing-system) – POS with dynamic invoices  
-- [Inventory Management](https://github.com/harsha-nani75/inventory-management) – Python + Flask + SQLAlchemy  
+- [Inventory Management](https://github.com/Harsha-nani75/inventory-app) – Python + Flask + SQLAlchemy  
 
 ---
 
