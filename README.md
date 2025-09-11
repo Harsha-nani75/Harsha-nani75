@@ -15,13 +15,18 @@
 ---
 
 
-## 📊 GitHub Stats & Analytics
+## 📊 GitHub Stats  
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=harsha-nani75&show_icons=true&theme=radical&count_private=true&hide=prs" alt="stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-nani75&theme=radical" alt="streak"/>
+  <a href="https://github.com/harsha-nani75">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harsha-nani75&show_icons=true&theme=radical&count_private=true&hide=prs" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/harsha-nani75">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-nani75&theme=radical" alt="GitHub streak" />
+  </a>
 </p>
+
+---
 
 
 ---
@@ -49,8 +54,21 @@
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: [Harsha Vardhan](https://linkedin.com/in/harsha-vardhan-5576a9309/)  
-- Email: **harshavardhan.thampa98@gmail.com**  
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsha-vardhan-thampa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:harshavardhan.thampa98@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/harsha__7_5" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ⭐ If you like my projects, consider giving them a **star**!
